@@ -1,11 +1,3 @@
-# Lab8Web
-
-# Lab7Web
-
-### Nurul Fajri - 312110506
-
-### TI.21.C.1
-
 ## PHP FRAMEWORK (CODEIGNITER)
 
 ## LANGKAH LANGKAH PRAKTIKUM
